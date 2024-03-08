@@ -13,10 +13,16 @@ header {
   color: rgb(255, 255, 255);
 }
 
-img {
-  width: 75px;
-  height: 60px;
-  left: 100%;
+.X {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.Y {
+  text-align: center;
+  display: block;
+  margin: auto;
 }
 
 .TIM {
